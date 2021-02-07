@@ -22,7 +22,7 @@ let classroom = (str) =>{
 
 	switch(str){
 		case "cfnd":
-			return("พรุ้งนี้วัน " + nextDays )
+			return("พรุ้งนี้วัน " + nextDays + "มีเรียน DATABASE เวลา 9.30-11.00 และ Project 13.30-17.20")
 	}
 }
 client.login('ODA3OTYxOTUxNjU2NDc2NzMy.YB_nNA.MT6qew0ItmL2TBL7Sp6y-jcwuCs');
